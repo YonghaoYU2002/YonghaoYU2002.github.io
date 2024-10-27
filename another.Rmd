@@ -1,0 +1,22 @@
+---
+title: "Yonghao's academic and professional experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+
+### A more detailed intro of my academic and professional experience
+
+
+
+I have held two research assistant positions at the City University of Hong Kong’s Department of Mathematics. Under the supervision of [Dr.Xiaosheng Zhuang](https://www.cityu.edu.hk/stfprofile/xzhuang7.htm), I contributed to a research project by conducting literature reviews and reimplementing image processing scripts in Python. This work involved analyzing both image and audio data using tools like OpenCV, which deepened my expertise in data transformation techniques. Later, under the supervision of [Dr.Yukun He](https://www.cityu.edu.hk/stfprofile/yukunhe.htm), I explored the convergence rate of the Central Limit Theorem, proving a weakened version of the Berry-Esseen theorem. This research enhanced my understanding of complex mathematical and statistical properties.
+
+Professionally, I interned at ByteDance as a Product Manager, where I designed a simplified platform to optimize merchant advertising on the e-commerce platform TikTok. I developed statistical questionnaires and performed A/B testing to evaluate the performance of various strategies. My role at ByteDance allowed me to combine my data science skills with real-world business applications, gaining valuable insights into the e-commerce and live-streaming industries.
+
+In addition to my academic and professional experience, I have worked on various projects, including credit card fraud detection, telecom customer churn prediction, and stock return prediction for high-tech companies. These projects allowed me to apply machine learning algorithms such as logistic regression, support vector machines, and LSTM models to real-world data challenges. Through these experiences, I have refined my programming skills in Python, R, MATLAB, and SQL, and have developed proficiency in data visualization tools like Tableau and Gephi.
+
+**If you would like to see my resume, please click** [here](Yonghao YU CV Updated again.pdf)
+
