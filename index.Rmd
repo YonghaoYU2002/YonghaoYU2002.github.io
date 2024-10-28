@@ -9,12 +9,13 @@ output:
 # This is Yonghao's awesome website
 
 ### My photo
+
 <img src="photo/me.jpg" alt="A photo of me" width="300"/>
 
 ### A short introduction of myself
 I am currently a first-year student in Master of Science in Biostatistics at [Columbia University](https://www.columbia.edu/), specializing in Public Health Data Science. I got my Bachelor’s degree in Data Science and minor degree in Mathematics from the [City University of Hong Kong](https://www.cityu.edu.hk/), where I developed a strong foundation in mathematics, machine learning, and statistical analysis. My coursework and research have honed my skills in Python, MATLAB, R, and SQL, and I have applied these tools to a range of data science projects.
 
-I have hands-on research experience, including work on the investigation of the convergence rate of Central Limit Theorem and image processing, where I reimplemented complex MATLAB scripts in Python to improve research efficiency. Additionally, during my internship at ByteDance, I contributed to the design of an e-commerce platform by leveraging data-driven insights to help merchants enhance their advertising strategies.
+I have hands-on research experience, including some works on the investigation of the convergence rate of Central Limit Theorem and image processing, where I reimplemented complex MATLAB scripts in Python to improve research efficiency. Additionally, during my internship at ByteDance, I contributed to the design of an e-commerce platform by leveraging data-driven insights to help merchants enhance their advertising strategies.
 
 In my various projects, I have tackled real-world challenges, such as predicting customer churn and detecting credit card fraud using machine learning algorithms. My technical proficiency extends beyond coding; I am skilled in data visualization tools like Tableau and Gephi, and I am passionate about using data to drive impactful solutions.
 
@@ -24,4 +25,7 @@ Fluent in Mandarin and English, with beginner-level Cantonese, I am committed to
 
 **If you would like to see my resume, please click** [here](Yonghao YU CV Updated again.pdf)
 
+**If you want to look at my Homework 4 Problem 2, please click**[here](dashboard.html)
+
+**This is my [girlfriend](my-girlfriend.html), I think she is gorgeous!!!**
 

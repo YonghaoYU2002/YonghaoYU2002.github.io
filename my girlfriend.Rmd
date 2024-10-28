@@ -1,0 +1,19 @@
+---
+title: "My girlfriend"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+
+### An introduction to my girlfriend
+
+<img src="photo/my girlfriend.jpg" alt="A photo of me" width="300"/>
+
+
+This is my girlfriend. Her name is WANG Sha(王莎). She is eight months younger than me. She graduated from Hunan University of Finance and Economics with a major in accounting. She is currently working in Changsha, Hunan.
+
+
+**I really really love her so much!!!**😘
